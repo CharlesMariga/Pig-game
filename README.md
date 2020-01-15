@@ -14,7 +14,6 @@ A website for a food delivery franchise
 ## Description
 
 ![Pig game photo](https://repository-images.githubusercontent.com/230012044/80cfd500-26bd-11ea-9520-8784c3684ae2)
-The game has 2 players, playing in rounds. In each turn, a player rolls a dice as many times as he/she whishes. Each result gets added to his ROUND score. BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn. The player can choose to 'Hold', which means that his/her ROUND score gets added to his/her GLOBAL score. After that, it's the next player's turn. The first player to reach 100 points on GLOBAL score wins the game.
 
 ## Installation
 
