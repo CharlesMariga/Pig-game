@@ -1,6 +1,5 @@
 # PIG GAME
 
-<<<<<<< HEAD
 A website for a food delivery franchise
 
 # Game rules:
@@ -10,8 +9,7 @@ A website for a food delivery franchise
 - BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
-=======
-Pig game is a fun game that's built with HTML, CSS and Javascript technology and runs on the browser.
+  Pig game is a fun game that's built with HTML, CSS and Javascript technology and runs on the browser.
 
 ## Description
 
@@ -33,4 +31,3 @@ Clink on the index.html file to open it in the browser
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
->>>>>>> 35b8c3623a615b139086f98ee0fba180a02fd544
